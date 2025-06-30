@@ -25,7 +25,7 @@ Cuando lo detecta, te ofrece crear y activar un entorno virtual local en el dire
 Guarda este archivo como `~/.safe_pip_wrapper.sh`:
 
 ```bash
-wget -O ~/.safe_pip_wrapper.sh https://raw.githubusercontent.com/tuusuario/pip-auto-venv/main/safe_pip_wrapper.sh
+wget -O ~/.safe_pip_wrapper.sh https://raw.githubusercontent.com/NestyF/pip-auto-venv/main/safe_pip_wrapper.sh
 chmod +x ~/.safe_pip_wrapper.sh
 ```
 
